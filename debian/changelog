@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+plexus-testing (1.1.0-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non-maintainer upload.
+  * source only upload to enable migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Paul Gevers <elbrus@debian.org>  Sat, 03 Dec 2022 07:48:40 +0100
+
+plexus-testing (1.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1020843)
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Tue, 27 Sep 2022 14:57:56 +0200

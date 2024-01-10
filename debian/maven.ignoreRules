@@ -1,0 +1,4 @@
+
+org.apache.maven.plugins maven-checkstyle-plugin * * * *
+org.apache.maven.shared maven-shared-resources * * * *
+org.junit.jupiter junit-jupiter-engine * * * *

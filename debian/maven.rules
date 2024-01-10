@@ -1,0 +1,2 @@
+
+org.codehaus.plexus plexus-testing jar s/.*/debian/ * *
